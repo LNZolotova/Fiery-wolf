@@ -2172,7 +2172,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 		}
 
 		.block_h2 {
-			font-size: 20px;
+			font-size: 16px;
 			color: #8ea45a; /* Цвет текста */
 			text-align: center;
 			font-weight: lighter;
@@ -2187,7 +2187,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			top: 80%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			font-size: 18px;
+			font-size: 16px;
 			font-weight: 3;
 			line-height: 1;
 		}
@@ -2425,7 +2425,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.item_2 {
 			display: inline-block;
-			width: 30%;
+			width: 45%;
 			height: 100%;
 			position: relative;
 			text-align: center;
@@ -2436,7 +2436,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		#right {
 			display: inline-block;
-			width: 30%;
+			width: 45%;
 			height: 100%;
 			position: relative;
 			text-align: center;
