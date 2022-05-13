@@ -821,7 +821,7 @@
 			cursor: pointer;
 		}
 
-		.form-row {
+		. form-row {
 			position: relative;
 			margin-bottom: 40px;
 		}
@@ -889,13 +889,13 @@
 
 		.footer-basic {
 			padding: 40px 0;
-
 			color: #4b4c4d;
 			list-style: none;
 			text-align: center;
 			font-size: 18px;
 			line-height: 1.6;
 			margin-bottom: 0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic ul {
@@ -905,10 +905,12 @@
 			font-size: 18px;
 			line-height: 1.6;
 			margin-bottom: 0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic li {
 			padding: 0 10px;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic ul a {
@@ -1118,7 +1120,7 @@
 
 		.block_text_center {
 			text-align: center;
-			line-height: 42px; /*пространства между строками*/
+			line-height: 22px; /*пространства между строками*/
 			font-family: Candara, sans-serif;
 			font-weight: 5;
 		}
@@ -1142,7 +1144,7 @@ ______________________*/
 			align-items: center;
 			justify-content: center;
 			position: absolute;
-			margin-top: 35%;
+			margin-top: 25%;
 		}
 
 /*___________________________________________*/
@@ -1567,7 +1569,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.block1_GO{
 			display: flex;
-			height: 65vh;
+			height: 75vh;
 			background-image: url(img/1_GO.png);/* фоновое изображение*/
 			background-size: 100%;
 			background-repeat: no-repeat; /*без повторения*/
@@ -1914,13 +1916,13 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.footer-basic {
 			padding:40px 0;
-
 			color:#4b4c4d;
 			list-style:none;
 			text-align:center;
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic ul {
@@ -1930,6 +1932,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic li {
@@ -2133,7 +2136,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.block_text_center {
 			text-align: center;
-			line-height: 42px; /*пространства между строками*/
+			line-height: 22px; /*пространства между строками*/
 			font-family: Candara, sans-serif;
 			font-weight: 5;
 		}
@@ -2157,7 +2160,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			align-items: center;
 			justify-content: center;
 			position: absolute;
-			margin-top: 35%;
+			margin-top: 25%;
 		}
 
 		/*___________________________________________*/
@@ -2191,7 +2194,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			top: 80%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			font-size: 20px;
+			font-size: 18px;
 			font-weight: 3;
 			line-height: 1;
 		}
@@ -2203,7 +2206,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			top: 80%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			font-size: 20px;
+			font-size: 18px;
 			font-weight: 3;
 			line-height: 1;
 			text-align: center;
@@ -2929,13 +2932,13 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.footer-basic {
 			padding:40px 0;
-
 			color:#4b4c4d;
 			list-style:none;
 			text-align:center;
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic ul {
@@ -2945,6 +2948,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic li {
@@ -3149,7 +3153,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.block_text_center {
 			text-align: center;
-			line-height: 22px; /*пространства между строками*/
+			line-height: 16px; /*пространства между строками*/
 			font-family: Candara, sans-serif;
 			font-weight: 5;
 		}
@@ -3172,7 +3176,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			align-items: center;
 			justify-content: center;
 			position: absolute;
-			margin-top: 35%;
+			margin-top: 25%;
 		}
 
 /*___________________________________________*/
@@ -3206,7 +3210,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			top: 80%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			font-size: 16px;
+			font-size: 18px;
 			font-weight: 3;
 			line-height: 1;
 		}
@@ -3218,9 +3222,10 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			top: 80%;
 			left: 50%;
 			transform: translate(-50%, -50%);
-			font-size: 16px;
+			font-size: 18px;
 			font-weight: 3;
 			line-height: 1;
+
 			text-align: center;
 			color: #f0e68c;
 		}
@@ -3946,13 +3951,13 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 
 		.footer-basic {
 			padding:40px 0;
-
 			color:#4b4c4d;
 			list-style:none;
 			text-align:center;
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic ul {
@@ -3962,6 +3967,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			font-size:18px;
 			line-height:1.6;
 			margin-bottom:0;
+			font-family: Candara, sans-serif;
 		}
 
 		.footer-basic li {
@@ -3990,7 +3996,7 @@ https://schoolsw3.com/howto/howto_js_dropdown.php*/
 			font-size: 25px;/*размер текста*/
 			color: #4b4c4d;
 			font-family: Candara, sans-serif;
-			font-weight: 5;
+			font-weight: 3;
 			display:inline-block;
 			text-align:center;
 			border-radius:50%;
